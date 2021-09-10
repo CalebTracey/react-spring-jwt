@@ -1,6 +1,6 @@
 # react-spring-jwt
 
-### Web application template. Created with React JS + Spring Boot + Spring Security + MongoDB
+### Web application template (React JS + Spring Boot + Spring Security + MongoDB)
 
 ## Usage
 1. Fork this repo
